@@ -1,0 +1,1 @@
+SELECT lastmodifieddate, * FROM account
